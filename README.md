@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/99811402/178275165-11f322f2-dc2e-46be-a783-b3ba71ca2f04.png)
+![image](https://user-images.githubusercontent.com/99811402/178289432-db45f698-b46f-43b3-8ab7-3a9205c3a1a3.png)
 # Fitness-Calculator
 
 Web app where you can calculate your BFP (Body fat percentage), your ideal weight (Work in progress) and your DCR (Daily calory requirement - Work in progress)
@@ -6,7 +6,20 @@ Web app where you can calculate your BFP (Body fat percentage), your ideal weigh
 ## Features
 
 - Dark Mode
+
+![ezgif-3-70b6c7e2f2](https://user-images.githubusercontent.com/99811402/178291510-946b9754-ee3a-4971-8a57-bf224ad46a58.gif)
+
 - BFP Calculator
+
+![ezgif-3-b4d183a925](https://user-images.githubusercontent.com/99811402/178291982-df86d6d9-a3af-4d7b-b973-63f839af49b8.gif)
+
+- Show errors
+
+![ezgif-3-39861361f6](https://user-images.githubusercontent.com/99811402/178292747-2aa62e2c-4ba4-4613-9c97-0c1862121fbc.gif)
+
+- Fully Responsive
+
+![ezgif-3-40036a9de1](https://user-images.githubusercontent.com/99811402/178303748-e5b8f1f6-118d-4509-8be6-742509a6f9ed.gif)
 
 ## Work-in-progress features
 
